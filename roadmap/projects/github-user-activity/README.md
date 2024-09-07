@@ -10,3 +10,5 @@ A simple command-line interface (CLI) to fetch and display the recent activity o
 - Handles errors gracefully
 
 ## Usage
+
+https://roadmap.sh/projects/github-user-activity
